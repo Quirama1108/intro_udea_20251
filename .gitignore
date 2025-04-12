@@ -1,0 +1,13 @@
+# Evitar archivos sensibles
+.kaggle/
+*.json
+
+# Archivos de entorno o del sistema
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# Archivos grandes o temporales
+*.zip
+*.csv
